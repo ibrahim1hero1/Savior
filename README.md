@@ -15,7 +15,7 @@ https://www.amazon.ca/IQ-Egypt-SaviorDoctor/dp/B017CEBM08
 
 Screenshots of App, 
                                                                                                                                 
-![alt tag](https://raw.githubusercontent.com/ibrahim1hero1/SaviorDoctor/master/readme/images/saviordoctor.png)
+![alt tag](https://raw.githubusercontent.com/ibrahim1hero1/SaviorDoctor/master/readme/saviordoctor.png)
 
 
 
