@@ -18,7 +18,7 @@ Screenshots of App,
 
 
 
-SaviorDoctor will transform to >>>> SaviorApp
+SaviorDoctor will upgrade to >>>> SaviorApp
 
 to be include many services like police office, hotels, mechanical, Rescue Vechicle, ......
 
