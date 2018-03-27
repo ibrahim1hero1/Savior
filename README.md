@@ -5,8 +5,6 @@ Savior Doctor is a mobile app to help doctors and pharmacies connect with patien
 # email: ibrahim.seniore@gmail.com
 # phone: +20 01005092916
 
-SaviorDoctor untill now under construction and it will release soon;
-
 
 you can download apk file from Amazon stor, I wait your feedback
 
@@ -19,6 +17,13 @@ Screenshots of App,
 
 
 
+
+SaviorDoctor will transform to >>>> SaviorApp
+
+to be include many services like police office, hotels, mechanical, Rescue Vechicle, ......
+
+
+it will release soon;
 
 
 
